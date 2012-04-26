@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="hello">Good Hello World</string>
-    <string name="newActivity">New Activity</string>
+    <string name="hello">Bom Olá Mundo</string>
+    <string name="newActivity">Nova Atividade</string>
     <string name="app_name">GoodHelloWorld</string>
 </resources>
